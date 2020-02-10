@@ -18,11 +18,11 @@ Giraffe
 http://moringaschool.com 
  }
 ## Technologies Used
-{The languages and tools you used to create this app are.(HTML & Css).}
+{The languages and tools that  I have used to create this app are.(HTML & Css).}
 ## Support and contact details
-.  Mail me for more information: nasrinanur@gmail.com}
-contact:0717156326.
-MIT $COPY;Nasra
+. Mail me for more information: nasrinanur@gmail.com}
+contact me at:0717156326.
+Moringa $COPY;Nasra
 ### License
 copyright (C) {2020} **{Nasra}
 
