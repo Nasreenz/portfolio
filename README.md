@@ -13,4 +13,4 @@ nasrinaur@gmail.com
 
 contact:0717156326.
 MIT $COPY;Nasra
-
+copyright (C) {2020} **{George}
