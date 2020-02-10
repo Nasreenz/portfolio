@@ -1,16 +1,28 @@
 # portfolio
-#Nasra Ibrahim.
-#Description.
-###This repository includes an index.html file which describes my background,intrests and hobby and has a picture of me.
-#It also includes a styles file which adds all the styles that have used to beautify and make my web page attractive.
+My first project
+#### {This includes an index.html file which describes my background,intrests and hobby and has a picture of me.<br>
+It also includes a styles file which adds all the styles that have used to beautify and make my web page attractive.
 .To create this webiste.
 .I created my directories,html and css files on terminal.
 .I then proceded to open Atom and write my html and css files as per the instructions from my technical mentors.
 #I was able to create a repository on github and push my project through the terminal to github.
+, {9th February 2020}
+#### By **Nazreenz**
+## Description
+Written with a little guidance from moringa school
+my first website
+float
+Giraffe
 
-contact me at:
-nasrinaur@gmail.com
-
+## Site
+http://moringaschool.com 
+ }
+## Technologies Used
+{The languages and tools you used to create this app are.(HTML & Css).}
+## Support and contact details
+.  Mail me for more information: nasrinanur@gmail.com}
 contact:0717156326.
 MIT $COPY;Nasra
-copyright (C) {2020} **{George}
+### License
+copyright (C) {2020} **{Nasra}
+
