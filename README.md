@@ -22,7 +22,7 @@ http://moringaschool.com
 ## Support and contact details
 . Mail me for more information: nasrinanur@gmail.com}
 contact me at:0717156326.
-Moringa $COPY;Nasra
+MIT $COPY;Nasra
 ### License
 copyright (C) {2020} **{Nasra}
 
